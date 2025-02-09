@@ -1,0 +1,6 @@
+*.docx
+*.zip
+*.csv
+HW/Assignment3/cache/
+HW/Assignment3/saved_models/
+HW/Final/output
